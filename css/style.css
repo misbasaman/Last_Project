@@ -9,3 +9,32 @@
     color: #333;
     margin-bottom: 20px;
 }
+
+.text-center{
+    color:blue;
+}
+
+/* Custom CSS for carousel controls */
+.custom-carousel-control-prev,
+.custom-carousel-control-next {
+    font-size: 24px;
+    color: #333;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1; /* Ensure the controls are above the video */
+}
+
+.custom-carousel-control-prev {
+    left: -30px; /* Adjust as needed */
+}
+
+.custom-carousel-control-next {
+    right: -30px; /* Adjust as needed */
+}
+
+.related-videos-container {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
