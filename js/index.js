@@ -17,40 +17,61 @@ document.addEventListener("DOMContentLoaded", function () {
             relatedVideosItem1.innerHTML = `
             <div>
                 <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-5" frameborder="0" allowfullscreen></iframe>
+                <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
                 <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-6" frameborder="0" allowfullscreen></iframe>
-                <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-5" frameborder="0" allowfullscreen></iframe>
-                <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-6" frameborder="0" allowfullscreen></iframe>
-                    
-           
+                <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+             
             </div>
             <div> <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-5" frameborder="0" allowfullscreen></iframe>
+            <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
             <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-6" frameborder="0" allowfullscreen></iframe>
-            <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-5" frameborder="0" allowfullscreen></iframe>
-            <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-6" frameborder="0" allowfullscreen></iframe>
+            <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+           
             </div>
             <div>
             <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-5" frameborder="0" allowfullscreen></iframe>
+            <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
             <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-6" frameborder="0" allowfullscreen></iframe>
-            <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-5" frameborder="0" allowfullscreen></iframe>
-            <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-6" frameborder="0" allowfullscreen></iframe>
-                
-       
-        </div>
-        <div> <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-5" frameborder="0" allowfullscreen></iframe>
-        <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-6" frameborder="0" allowfullscreen></iframe>
+            <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+            </div>
+
+        <div> 
         <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-5" frameborder="0" allowfullscreen></iframe>
+        <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
         <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-6" frameborder="0" allowfullscreen></iframe>
+        <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
         </div>
        
              
              `;} else if (selectedItem === "item2") {
             // Populate related videos for Item 2
             relatedVideosItem2.innerHTML = `
-                <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-7" frameborder="0" allowfullscreen></iframe>
-                <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-8" frameborder="0" allowfullscreen></iframe>
-                <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-5" frameborder="0" allowfullscreen></iframe>
-                <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-6" frameborder="0" allowfullscreen></iframe>
-                
+            <div>
+            <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-5" frameborder="0" allowfullscreen></iframe>
+            <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+            <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-6" frameborder="0" allowfullscreen></iframe>
+            <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+         
+        </div>
+        <div> <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-5" frameborder="0" allowfullscreen></iframe>
+        <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+        <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-6" frameborder="0" allowfullscreen></iframe>
+        <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+       
+        </div>
+        <div>
+        <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-5" frameborder="0" allowfullscreen></iframe>
+        <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+        <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-6" frameborder="0" allowfullscreen></iframe>
+        <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+        </div>
+
+    <div> 
+    <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-5" frameborder="0" allowfullscreen></iframe>
+    <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+    <iframe width="280" height="157" src="https://www.youtube.com/embed/your-video-id-6" frameborder="0" allowfullscreen></iframe>
+    <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+    </div>
                 
             `;
         }
